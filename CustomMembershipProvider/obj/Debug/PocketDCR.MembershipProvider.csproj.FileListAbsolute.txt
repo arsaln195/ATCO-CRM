@@ -1,0 +1,57 @@
+D:\ATCOCRM-V2\CustomMembershipProvider\bin\Debug\PocketDCR.CustomMembershipProvider.dll.config
+D:\ATCOCRM-V2\CustomMembershipProvider\bin\Debug\PocketDCR.CustomMembershipProvider.dll
+D:\ATCOCRM-V2\CustomMembershipProvider\bin\Debug\PocketDCR.CustomMembershipProvider.pdb
+D:\ATCOCRM-V2\CustomMembershipProvider\bin\Debug\DatabaseLayer.dll
+D:\ATCOCRM-V2\CustomMembershipProvider\bin\Debug\DatabaseLayer.pdb
+D:\ATCOCRM-V2\CustomMembershipProvider\obj\Debug\PocketDCR.CustomMembershipProvider.dll
+D:\ATCOCRM-V2\CustomMembershipProvider\obj\Debug\PocketDCR.CustomMembershipProvider.pdb
+D:\ATCOCRM-V2\CustomMembershipProvider\obj\Debug\PocketDCR.MembershipProvider.csprojResolveAssemblyReference.cache
+D:\Atco_CRM_V2\ATCOCRM-V2\CustomMembershipProvider\bin\Debug\PocketDCR.CustomMembershipProvider.dll.config
+D:\Atco_CRM_V2\ATCOCRM-V2\CustomMembershipProvider\bin\Debug\PocketDCR.CustomMembershipProvider.dll
+D:\Atco_CRM_V2\ATCOCRM-V2\CustomMembershipProvider\bin\Debug\PocketDCR.CustomMembershipProvider.pdb
+D:\Atco_CRM_V2\ATCOCRM-V2\CustomMembershipProvider\bin\Debug\DatabaseLayer.dll
+D:\Atco_CRM_V2\ATCOCRM-V2\CustomMembershipProvider\bin\Debug\DatabaseLayer.pdb
+D:\Atco_CRM_V2\ATCOCRM-V2\CustomMembershipProvider\obj\Debug\PocketDCR.MembershipProvider.csprojResolveAssemblyReference.cache
+D:\Atco_CRM_V2\ATCOCRM-V2\CustomMembershipProvider\obj\Debug\PocketDCR.CustomMembershipProvider.dll
+D:\Atco_CRM_V2\ATCOCRM-V2\CustomMembershipProvider\obj\Debug\PocketDCR.CustomMembershipProvider.pdb
+D:\updated_ATco_29-1-2024\ATCOCRM-V2\CustomMembershipProvider\bin\Debug\PocketDCR.CustomMembershipProvider.dll.config
+D:\updated_ATco_29-1-2024\ATCOCRM-V2\CustomMembershipProvider\bin\Debug\PocketDCR.CustomMembershipProvider.dll
+D:\updated_ATco_29-1-2024\ATCOCRM-V2\CustomMembershipProvider\bin\Debug\PocketDCR.CustomMembershipProvider.pdb
+D:\updated_ATco_29-1-2024\ATCOCRM-V2\CustomMembershipProvider\bin\Debug\DatabaseLayer.dll
+D:\updated_ATco_29-1-2024\ATCOCRM-V2\CustomMembershipProvider\bin\Debug\DatabaseLayer.pdb
+D:\updated_ATco_29-1-2024\ATCOCRM-V2\CustomMembershipProvider\obj\Debug\PocketDCR.MembershipProvider.csprojResolveAssemblyReference.cache
+D:\updated_ATco_29-1-2024\ATCOCRM-V2\CustomMembershipProvider\obj\Debug\PocketDCR.CustomMembershipProvider.dll
+D:\updated_ATco_29-1-2024\ATCOCRM-V2\CustomMembershipProvider\obj\Debug\PocketDCR.CustomMembershipProvider.pdb
+D:\Latest All Projects\ATCOCRM-V2\CustomMembershipProvider\bin\Debug\PocketDCR.CustomMembershipProvider.dll.config
+D:\Latest All Projects\ATCOCRM-V2\CustomMembershipProvider\bin\Debug\PocketDCR.CustomMembershipProvider.dll
+D:\Latest All Projects\ATCOCRM-V2\CustomMembershipProvider\bin\Debug\PocketDCR.CustomMembershipProvider.pdb
+D:\Latest All Projects\ATCOCRM-V2\CustomMembershipProvider\bin\Debug\DatabaseLayer.dll
+D:\Latest All Projects\ATCOCRM-V2\CustomMembershipProvider\bin\Debug\DatabaseLayer.pdb
+D:\Latest All Projects\ATCOCRM-V2\CustomMembershipProvider\obj\Debug\PocketDCR.CustomMembershipProvider.dll
+D:\Latest All Projects\ATCOCRM-V2\CustomMembershipProvider\obj\Debug\PocketDCR.CustomMembershipProvider.pdb
+D:\Latest All Projects\ATCOCRM-V2\CustomMembershipProvider\bin\Debug\DatabaseLayer.dll.config
+D:\Latest All Projects\ATCOCRM-V2\CustomMembershipProvider\obj\Debug\PocketDCR.MembershipProvider.csproj.AssemblyReference.cache
+D:\Latest All Projects\ATCOCRM-V2\CustomMembershipProvider\obj\Debug\PocketDCR.MembershipProvider.csproj.CoreCompileInputs.cache
+D:\Latest All Projects\ATCOCRM-V2\CustomMembershipProvider\obj\Debug\PocketDCR.MembershipProvider.csproj.CopyComplete
+D:\Latest Projects\ATCOCRM-V2\CustomMembershipProvider\bin\Debug\PocketDCR.CustomMembershipProvider.dll.config
+D:\Latest Projects\ATCOCRM-V2\CustomMembershipProvider\bin\Debug\PocketDCR.CustomMembershipProvider.dll
+D:\Latest Projects\ATCOCRM-V2\CustomMembershipProvider\bin\Debug\PocketDCR.CustomMembershipProvider.pdb
+D:\Latest Projects\ATCOCRM-V2\CustomMembershipProvider\bin\Debug\DatabaseLayer.dll
+D:\Latest Projects\ATCOCRM-V2\CustomMembershipProvider\bin\Debug\DatabaseLayer.pdb
+D:\Latest Projects\ATCOCRM-V2\CustomMembershipProvider\obj\Debug\PocketDCR.CustomMembershipProvider.dll
+D:\Latest Projects\ATCOCRM-V2\CustomMembershipProvider\obj\Debug\PocketDCR.CustomMembershipProvider.pdb
+D:\Latest Projects\ATCOCRM-V2\CustomMembershipProvider\bin\Debug\DatabaseLayer.dll.config
+D:\Latest Projects\ATCOCRM-V2\CustomMembershipProvider\obj\Debug\PocketDCR.MembershipProvider.csproj.AssemblyReference.cache
+D:\Latest Projects\ATCOCRM-V2\CustomMembershipProvider\obj\Debug\PocketDCR.MembershipProvider.csproj.CoreCompileInputs.cache
+D:\Latest Projects\ATCOCRM-V2\CustomMembershipProvider\obj\Debug\PocketDCR.MembershipProvider.csproj.CopyComplete
+C:\Users\Internee1\Desktop\ATCOCRM-V2\CustomMembershipProvider\bin\Debug\PocketDCR.CustomMembershipProvider.dll.config
+C:\Users\Internee1\Desktop\ATCOCRM-V2\CustomMembershipProvider\bin\Debug\PocketDCR.CustomMembershipProvider.dll
+C:\Users\Internee1\Desktop\ATCOCRM-V2\CustomMembershipProvider\bin\Debug\PocketDCR.CustomMembershipProvider.pdb
+C:\Users\Internee1\Desktop\ATCOCRM-V2\CustomMembershipProvider\bin\Debug\DatabaseLayer.dll
+C:\Users\Internee1\Desktop\ATCOCRM-V2\CustomMembershipProvider\bin\Debug\DatabaseLayer.pdb
+C:\Users\Internee1\Desktop\ATCOCRM-V2\CustomMembershipProvider\bin\Debug\DatabaseLayer.dll.config
+C:\Users\Internee1\Desktop\ATCOCRM-V2\CustomMembershipProvider\obj\Debug\PocketDCR.MembershipProvider.csproj.AssemblyReference.cache
+C:\Users\Internee1\Desktop\ATCOCRM-V2\CustomMembershipProvider\obj\Debug\PocketDCR.MembershipProvider.csproj.CoreCompileInputs.cache
+C:\Users\Internee1\Desktop\ATCOCRM-V2\CustomMembershipProvider\obj\Debug\PocketDCR.MembershipProvider.csproj.CopyComplete
+C:\Users\Internee1\Desktop\ATCOCRM-V2\CustomMembershipProvider\obj\Debug\PocketDCR.CustomMembershipProvider.dll
+C:\Users\Internee1\Desktop\ATCOCRM-V2\CustomMembershipProvider\obj\Debug\PocketDCR.CustomMembershipProvider.pdb
