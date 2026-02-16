@@ -1,0 +1,32 @@
+D:\ATCOCRM-V2\DatabaseLayer\bin\Debug\DatabaseLayer.dll.config
+D:\ATCOCRM-V2\DatabaseLayer\bin\Debug\DatabaseLayer.dll
+D:\ATCOCRM-V2\DatabaseLayer\bin\Debug\DatabaseLayer.pdb
+D:\ATCOCRM-V2\DatabaseLayer\obj\Debug\DatabaseLayer.dll
+D:\ATCOCRM-V2\DatabaseLayer\obj\Debug\DatabaseLayer.pdb
+D:\ATCOCRM-V2\DatabaseLayer\obj\Debug\DatabaseLayer.csprojResolveAssemblyReference.cache
+D:\Atco_CRM_V2\ATCOCRM-V2\DatabaseLayer\bin\Debug\DatabaseLayer.dll.config
+D:\Atco_CRM_V2\ATCOCRM-V2\DatabaseLayer\bin\Debug\DatabaseLayer.dll
+D:\Atco_CRM_V2\ATCOCRM-V2\DatabaseLayer\bin\Debug\DatabaseLayer.pdb
+D:\Atco_CRM_V2\ATCOCRM-V2\DatabaseLayer\obj\Debug\DatabaseLayer.dll
+D:\Atco_CRM_V2\ATCOCRM-V2\DatabaseLayer\obj\Debug\DatabaseLayer.pdb
+D:\Atco_CRM_V2\ATCOCRM-V2\DatabaseLayer\obj\Debug\DatabaseLayer.csprojResolveAssemblyReference.cache
+D:\Latest All Projects\ATCOCRM-V2\DatabaseLayer\bin\Debug\DatabaseLayer.dll.config
+D:\Latest All Projects\ATCOCRM-V2\DatabaseLayer\bin\Debug\DatabaseLayer.dll
+D:\Latest All Projects\ATCOCRM-V2\DatabaseLayer\bin\Debug\DatabaseLayer.pdb
+D:\Latest All Projects\ATCOCRM-V2\DatabaseLayer\obj\Debug\DatabaseLayer.dll
+D:\Latest All Projects\ATCOCRM-V2\DatabaseLayer\obj\Debug\DatabaseLayer.pdb
+D:\Latest All Projects\ATCOCRM-V2\DatabaseLayer\obj\Debug\DatabaseLayer.csproj.AssemblyReference.cache
+D:\Latest All Projects\ATCOCRM-V2\DatabaseLayer\obj\Debug\DatabaseLayer.csproj.CoreCompileInputs.cache
+D:\Latest Projects\ATCOCRM-V2\DatabaseLayer\bin\Debug\DatabaseLayer.dll.config
+D:\Latest Projects\ATCOCRM-V2\DatabaseLayer\bin\Debug\DatabaseLayer.dll
+D:\Latest Projects\ATCOCRM-V2\DatabaseLayer\bin\Debug\DatabaseLayer.pdb
+D:\Latest Projects\ATCOCRM-V2\DatabaseLayer\obj\Debug\DatabaseLayer.dll
+D:\Latest Projects\ATCOCRM-V2\DatabaseLayer\obj\Debug\DatabaseLayer.pdb
+D:\Latest Projects\ATCOCRM-V2\DatabaseLayer\obj\Debug\DatabaseLayer.csproj.AssemblyReference.cache
+D:\Latest Projects\ATCOCRM-V2\DatabaseLayer\obj\Debug\DatabaseLayer.csproj.CoreCompileInputs.cache
+C:\Users\Internee1\Desktop\ATCOCRM-V2\DatabaseLayer\bin\Debug\DatabaseLayer.dll.config
+C:\Users\Internee1\Desktop\ATCOCRM-V2\DatabaseLayer\bin\Debug\DatabaseLayer.dll
+C:\Users\Internee1\Desktop\ATCOCRM-V2\DatabaseLayer\bin\Debug\DatabaseLayer.pdb
+C:\Users\Internee1\Desktop\ATCOCRM-V2\DatabaseLayer\obj\Debug\DatabaseLayer.csproj.CoreCompileInputs.cache
+C:\Users\Internee1\Desktop\ATCOCRM-V2\DatabaseLayer\obj\Debug\DatabaseLayer.dll
+C:\Users\Internee1\Desktop\ATCOCRM-V2\DatabaseLayer\obj\Debug\DatabaseLayer.pdb
